@@ -3,6 +3,9 @@
 Welcome to my beat making project. Feel free to start making some dope beats. Have Fun!! :)
 
 
+> ![screenshot](beat.png)
+
+
 ## How To Begin
 
 
